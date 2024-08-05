@@ -1007,7 +1007,7 @@ font-size:large;
 
 .stat-number {
     color: var(--color-white);
-    font-size: .875rem;
+    font-size: .975rem;
     font-weight: bold;
     display: flex;
     align-items: center;
